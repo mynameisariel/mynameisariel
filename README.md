@@ -1,4 +1,4 @@
-## Hi there 👋
+## hello! my name is ariel
 
 ### about me
 - high school senior and aspiring engineer :D
