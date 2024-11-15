@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### about me
+high school senior and aspiring engineer :D
+i like playing sports (especially ultimate frisbee)
+here to learnnnnnnnnnnnnnn
+
 <!--
 **mynameisariel/mynameisariel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
