@@ -5,6 +5,7 @@
 - i like playing sports (especially ultimate frisbee)
 - here to learnnnnnnnnnnnnnn!!!! :D
 
+pfp credits to vickie chen <3
 <!--
 **mynameisariel/mynameisariel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
