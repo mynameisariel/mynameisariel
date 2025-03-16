@@ -5,11 +5,6 @@
 - i like playing sports (especially ultimate frisbee)
 - here to learnnnnnnnnnnnnnn!!!! :D
 
-my project to-do list (endless...):
-- 3d website with three.js
-- desktop app with electron.js!
-- sunrise alarm clock 
-
 <!--
 **mynameisariel/mynameisariel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
