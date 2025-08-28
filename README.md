@@ -1,7 +1,7 @@
 ## hello! my name is ariel
 
 ### about me
-- high school senior and aspiring engineer :D
+- systems design engineer @ university of waterloo :D
 - i like playing sports (especially ultimate frisbee)
 - here to learnnnnnnnnnnnnnn!!!! :D
 
