@@ -4,7 +4,7 @@
 - systems design engineer @ university of waterloo :D
 - i like playing sports (especially ultimate frisbee)
 - dabble in a bit of everything
-- current projects: random function generator, booking system for tennis business, e-bike design team at school yippee!
+- current projects: LLM from scratch, tennis booking website, random function generator yippee!
 - here to learn!!!! :D
 
 pfp credits to vickie chen <3
